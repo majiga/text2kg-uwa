@@ -15,7 +15,6 @@ Team members:
     datasets // Contains all contest-provided datasets
     sourcecode
         candidate_extraction    // Coref resolution + identifying noun and relation phrases
-        triples_server          // Simple web server to communicate between visualisation app and triple models
         visualisation           // Visualisation web app
         requirements.txt        // All Python requirements for the /sourcecode directory
         setup.sh                // Creates a virtual environment and installs required packages
