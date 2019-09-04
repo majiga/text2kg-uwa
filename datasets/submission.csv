@@ -1,0 +1,205 @@
+industry,index,s1,r,s2
+cateringServices,0,Fifteen,in,London
+cateringServices,0,KPMG,part_of,Jamie
+cateringServices,3,Hyde,is_organization_of,Juniper Tree
+cateringServices,3,Italian/JJ,locatedAt,Hyde
+cateringServices,3,Hyde,part_of,Juniper Tree
+cateringServices,4,Concepts,is_organization_of,Multi Unit Operators Concepts
+cateringServices,4,ITALIANA,part_of,Antonio
+cateringServices,5,Harbison,is_organization_of,Lexington County
+cateringServices,6,Central Cafe,is_organization_of,Plainville
+cateringServices,8,Salad Chick,in,Texas
+cateringServices,9,Monsoon Chocolate,in,Bon Appetit
+cateringServices,9,Tucson,in,U.S.
+cateringServices,11,Frank Maisano,in,Italian/JJ
+cateringServices,12,Equal/JJ Employment,is_organization_of,Fight
+cateringServices,14,LGBTQ,is_organization_of,Vern Stenman
+cateringServices,14,LGBTQ,part_of,Vern Stenman
+cateringServices,15,Boulevard Street,in,Indiana
+cateringServices,16,CEO,is_organization_of,Fat Shack
+cateringServices,16,Cuban,part_of,Texas Christian University
+cateringServices,16,Fort Worth,part_of,Fat Shack
+cateringServices,18,Matt Bilyeu,in,Wisconsin
+cateringServices,18,Culver,in,Prairie
+cateringServices,18,Terre Haute,in,Wisconsin
+cateringServices,19,San Jose City Council,is_organization_of,Olla Cocina
+cateringServices,19,Brit,locatedAt,Original Joe
+cateringServices,19,Mineta San Jose International Airport,part_of,San Jose Joe
+cateringServices,20,Jeremiah Tower,in,Stars
+cateringServices,20,Nacho FriesS,is_organization_of,Ventura Foods
+cateringServices,20,San Francisco,locatedAt,MenuMasters Hall
+cateringServices,21,Paina Café,is_organization_of,Kalanianaole Highway
+cateringServices,23,Weekly/JJ,in,Portsmouth
+cateringServices,26,Savory Grain,is_organization_of,Broad St.
+cateringServices,26,Savory Grain,part_of,Broad St.
+cateringServices,27,Sonoma Counties,in,North
+cateringServices,27,Fort Bragg,is_organization_of,Napa
+cateringServices,28,Kennewick,in,Kennewick
+cateringServices,30,Dayton,in,Dayton
+cateringServices,31,Eby,in,Pooler
+cateringServices,31,Georgia,in,Lincolnton
+cateringServices,31,North Carolina,locatedAt,Lincolnton
+cateringServices,32,Double Doc Ranch,in,Cody
+cateringServices,32,Wyoming Legacy Meats,in,Cody
+cateringServices,32,North Industrial Park,in,U.S.
+cateringServices,32,Rocky Mountain,is_organization_of,Frank Schmidt
+cateringServices,32,Shell,is_organization_of,Wyoming Legacy Meats
+cateringServices,34,Tea Soda,in,Whole/JJ
+cateringServices,34,Market,in,Colorado
+cateringServices,34,Tea Sodas,in,Whole/JJ
+cateringServices,36,Hilton Richmond Hotel,in,Short Pump
+cateringServices,36,Arthur Ashe Blvd,in,Scott
+cateringServices,37,Bibigo Kitchen,in,Fashion
+cateringServices,38,Tiger Boulevard,in,Clemson
+cateringServices,40,Triple Western Bacon,is_organization_of,Carl
+cateringServices,42,Bowl,is_organization_of,Berry
+cateringServices,42,FAACT,is_organization_of,Berry Bowl
+cateringServices,43,Hickory Bird,in,Texas
+cateringServices,43,Walmart,is_organization_of,Hulen Street
+cateringServices,44,Small,in,Hamtramck
+cateringServices,44,Hamtramck,locatedAt,Detroit News
+cateringServices,47,Chopt,in,New York City
+cateringServices,48,Guangdong Deaf People Association,in,China
+cateringServices,50,TCRC,is_organization_of,Ray Thurston
+cateringServices,50,TCRC,part_of,Ray Thurston
+cateringServices,52,Snøhetta,in,Europe
+cateringServices,52,Norway,locatedAt,Business Insider
+cateringServices,53,Observer,in,Italian/JJ
+cateringServices,53,Chapel Hill,locatedAt,News
+cateringServices,54,U.S.,locatedAt,Central District
+cateringServices,55,Richmond,in,America
+cateringServices,55,Richmond,in,Longoven
+cateringServices,55,Africanne,in,Main
+cateringServices,55,Proper Pie,in,Richmond
+cateringServices,57,Nikky Phinywatana,in,Asian/JJ
+cateringServices,57,Enjoy Mint,in,Richardson
+cateringServices,58,United StatesS,locatedAt,Department
+cateringServices,60,Cedar Rapids,in,French/JJ
+cateringServices,60,NewBo City Market,is_organization_of,Get Fresh
+cateringServices,60,NewBo City Market,part_of,Vernon Rd
+cateringServices,60,NewBo City Market,part_of,Get Fresh
+cateringServices,62,Chris Grundell,in,Soci
+cateringServices,62,CEO,is_organization_of,Sajj Mediterranean
+cateringServices,62,Louisville,locatedAt,Grundell
+cateringServices,62,Brittany,locatedAt,Networld Media Group
+cateringServices,66,Momo Yakitori,in,Woodridge
+cateringServices,66,City Paper,is_organization_of,Masako
+cateringServices,66,City Paper,part_of,Masako
+cateringServices,70,Veganism/NN,locatedAt,UK
+cosmetics,0,Graham,in,Instagram
+cosmetics,3,Avail Facial Lotion,is_organization_of,Sunscreen
+cosmetics,7,Costly,in,Dior
+cosmetics,20,Spain,locatedAt,Douglas
+cosmetics,20,U.S.,locatedAt,Nordstrom
+cosmetics,35,KylieSkin,is_organization_of,Billionaire Kylie Jenner
+cosmetics,38,Kylie CosmeticsS,is_organization_of,Kylie Skin
+cosmetics,38,Kylie CosmeticsS,part_of,Kylie Skin
+cosmetics,39,Kendall Jenner Makeup ProductsS Be,is_organization_of,Jenner
+cosmetics,39,Kylie CosmeticsS,is_organization_of,Kylie Jenner
+cosmetics,45,Bella Jade Botanicals Makeup,is_organization_of,Amazon
+cosmetics,45,Bella Jade Botanicals Makeup,part_of,Amazon
+cosmetics,47,Ohii,in,Urban
+cosmetics,51,Nude Lipstick,in,Fresh Brew
+cosmetics,52,Glossier,is_organization_of,Boy Brow
+cosmetics,56,Allure,is_organization_of,Beauty
+cosmetics,56,Allure,part_of,Beauty
+cosmetics,58,RÓEN Beauty,is_organization_of,Nikki DeRoest
+cosmetics,58,RÓEN Beauty,part_of,Nikki DeRoest
+cosmetics,59,Satin Skin Mist,is_organization_of,Tatcha
+cosmetics,60,Moisturizer,locatedAt,Soft
+publicSecurity,5,APCO International,part_of,Public Safety Broadband Summit
+publicSecurity,8,Tijuana Public Safety Department,is_organization_of,Drone
+publicSecurity,8,Cape,locatedAt,Tijuana Public Safety Department
+publicSecurity,8,Tijuana Public Safety Department,part_of,Drone
+publicSecurity,11,Circuit Court,in,AppealsS
+publicSecurity,13,Whitehall,is_organization_of,Lehigh Street
+publicSecurity,14,firefightersNew/JJ,is_organization_of,Fire Apparatus
+publicSecurity,15,Fire Department,is_organization_of,Public Works
+publicSecurity,16,Public Safety,is_organization_of,Joshua Smith
+publicSecurity,16,Schoolcraft Fire Academy,is_organization_of,Rouge
+publicSecurity,16,Schoolcraft Fire Academy,part_of,Rouge
+publicSecurity,17,NYPD,is_organization_of,Alex Chohlas-Wood
+publicSecurity,17,INFORMS Journal,is_organization_of,Applied Analytics
+publicSecurity,23,IP,is_organization_of,Kari
+publicSecurity,24,TVF,is_organization_of,Williams Street
+publicSecurity,24,TVF,is_organization_of,Fulton Street
+publicSecurity,24,TVF,is_organization_of,Brutscher Street
+publicSecurity,24,TVF,part_of,Williams Street
+publicSecurity,24,TVF,part_of,Fulton Street
+publicSecurity,27,Carroll County,is_organization_of,Awards Committee
+publicSecurity,29,Spring/NN,locatedAt,lifeguardsSan/NN Diego Fire
+publicSecurity,30,USU,is_organization_of,Morris
+publicSecurity,30,State University,part_of,Earl Morris
+publicSecurity,31,Crisis Response Team,is_organization_of,William McManus
+publicSecurity,31,Crisis Response Team,part_of,William McManus
+publicSecurity,32,Alpine,in,Highland
+publicSecurity,32,Lone Peak,is_organization_of,Alpine
+publicSecurity,32,Lone Peak Fire District,part_of,Alpine
+publicSecurity,33,US,is_organization_of,Milton Unified Basketball
+publicSecurity,36,Malibu,locatedAt,Public Safety
+publicSecurity,36,Los Angeles,locatedAt,Emergency Management
+publicSecurity,38,Public Security,in,North America
+publicSecurity,38,Annual Public,is_organization_of,Victim
+publicSecurity,38,IDEMIA,is_organization_of,Law
+publicSecurity,38,Augmented IdentityTM,locatedAt,Annual Public
+publicSecurity,38,North America,locatedAt,IDEMIA
+publicSecurity,38,IDEMIA,part_of,User Conference
+publicSecurity,42,Fairbanks,locatedAt,Fairbanks Emergency Communication Center
+publicSecurity,44,Smith Road,in,Monroe
+publicSecurity,46,Randy Morris,in,Dothan
+publicSecurity,49,Maryland,is_organization_of,Allegheny County
+publicSecurity,49,Maryland,locatedAt,Motorola Solutions
+publicSecurity,53,Merced County,is_organization_of,Next/JJ Generation
+publicSecurity,53,DATAMARK,is_organization_of,Merced County GIS
+publicSecurity,53,GIS,is_organization_of,Gene Barrera
+publicSecurity,54,Circuit Court,in,AppealsS
+publicSecurity,56,Super Bowl,is_organization_of,Super Bowl
+publicSecurity,58,Charles Koch Institute,in,Afghanistan
+publicSecurity,58,District,locatedAt,Maryland Senate
+publicSecurity,59,Forsyth County Sheriff,is_organization_of,Alpharetta
+publicSecurity,66,APCO International,part_of,Public Safety Broadband Summit
+publicSecurity,67,Health,locatedAt,QRS
+automotiveEngineering,1,Ford,in,Escape
+automotiveEngineering,3,SUVs,is_organization_of,Cadillac
+automotiveEngineering,5,Mazda3,in,Los Angeles
+automotiveEngineering,7,Europe,locatedAt,US
+automotiveEngineering,9,Birò O2,is_organization_of,Milan
+automotiveEngineering,9,Birò O2,is_organization_of,Mandalaki
+automotiveEngineering,12,BNA,is_organization_of,Dual Mode
+automotiveEngineering,13,New York City,locatedAt,Mint
+automotiveEngineering,15,Turbo,locatedAt,Cayenne
+automotiveEngineering,17,Cayenne,part_of,Porsche
+automotiveEngineering,22,Automotive News,is_organization_of,Joe
+automotiveEngineering,22,SUV,is_organization_of,Jeff Schuster
+automotiveEngineering,22,Vance,locatedAt,Automotive News
+automotiveEngineering,22,SUV,part_of,Jeff Schuster
+automotiveEngineering,28,Altima,in,U.S.
+automotiveEngineering,30,Insurance Institute,is_organization_of,Highway Safety
+automotiveEngineering,31,Ford,is_organization_of,Kuga
+automotiveEngineering,33,Chevrolet Trailblazer,in,United StatesS
+automotiveEngineering,33,Steve Majoros,in,Chevrolet
+automotiveEngineering,33,SUV,is_organization_of,Chevy Blazer
+automotiveEngineering,33,Trailblazer,part_of,Steve Majoros
+automotiveEngineering,34,Rogue,in,Encore
+automotiveEngineering,34,Encore,locatedAt,Envision
+automotiveEngineering,39,Crack Pipe,in,U.S.
+automotiveEngineering,40,Audi,in,LA
+automotiveEngineering,42,Bertone,in,Gandini
+automotiveEngineering,42,BMW,is_organization_of,Adrian/JJ Von Hooydonk
+automotiveEngineering,42,Garmisch,is_organization_of,Nuccio Bertone
+automotiveEngineering,42,Geneva Motor Show,part_of,Marcello Gandini
+automotiveEngineering,44,Japan,locatedAt,Range
+automotiveEngineering,45,Telluride,locatedAt,Telluride
+automotiveEngineering,51,Toyota,locatedAt,SUVs
+automotiveEngineering,58,Jaguar,in,Europe
+automotiveEngineering,60,Skai,is_organization_of,Alaka
+automotiveEngineering,63,Lambo/NN,in,Huracan
+automotiveEngineering,65,Opel,locatedAt,General MotorsS
+automotiveEngineering,66,Hybrid4,in,Opel
+automotiveEngineering,78,Shelby,is_organization_of,Ford
+automotiveEngineering,78,Shelby,part_of,Ford
+automotiveEngineering,79,Civic,in,U.S.
+automotiveEngineering,79,Honda,locatedAt,SUVs
+automotiveEngineering,80,Champion Motor Speedway,in,Pontiac
+automotiveEngineering,87,Geneva,locatedAt,Garmisch
+automotiveEngineering,88,Ken Kornas,in,Detroit
