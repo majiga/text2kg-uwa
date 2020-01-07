@@ -60,9 +60,9 @@ text2kg-uwa is licensed under a Creative Commons Attribution-ShareAlike 4.0 Inte
 
 ## Reference
 
-@inproceedings{stewart2019icdm,
-  title={ICDM 2019 Knowledge Graph Contest: Team UWA},
-  author={Stewart, Michael and Enkhsaikhan, Majigsuren and Liu, Wei},  
-  booktitle={ICDM 2019},
-  year={2019}
-}
+    @inproceedings{stewart2019icdm,    
+        title={ICDM 2019 Knowledge Graph Contest: Team UWA},
+        author={Stewart, Michael and Enkhsaikhan, Majigsuren and Liu, Wei},
+        booktitle={ICDM 2019},
+        year={2019}
+    }
